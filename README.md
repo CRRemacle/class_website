@@ -5,3 +5,5 @@
 Class update 3
 
 Class update 4
+
+Class update 6
