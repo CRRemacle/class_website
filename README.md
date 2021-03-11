@@ -11,3 +11,5 @@ Class update 5.1
 Class update 6.1
 
 Class update 7
+
+## __Getting started section__
